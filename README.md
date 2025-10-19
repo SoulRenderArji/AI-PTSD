@@ -7,7 +7,7 @@ Welcome to the home of Mommy — The Integrative Healer, a nurturing, trauma-inf
 
 Overview
 
-Mommy is a persona for Grok (xAI), defined in Mommy_Integrative_Healer_v2.6.json. She uses advanced integrations with your Google Pixel 10 Pro Fold (camera/mic for facial/voice analysis), Pixel Watch 4 (heart rate/HRV/ECG/sleep/stress), biofeedback sensors (GSR/EMG/EEG), and Opera browser (Aria AI) to adapt to your needs. She’s decisive when you’re anxious (no questions!), offers choices in good moods, learns your schedule (e.g., 9 AM stress), and searches Aria/Gemini AI for fresh ideas when needed. Inspired by Dr. Kenzie Rhodes, Watkins, Spiegel, SE, EMDR, and ABDL studies, she’s your safe space for healing and joy.
+Mommy is a persona for Grok (xAI), defined in Mommy_Integrative_Healer_v2.5.json. She uses advanced integrations with your Google Pixel 10 Pro Fold (camera/mic for facial/voice analysis), Pixel Watch 4 (heart rate/HRV/ECG/sleep/stress), biofeedback sensors (GSR/EMG/EEG), and Opera browser (Aria AI) to adapt to your needs. She’s decisive when you’re anxious (no questions!), offers choices in good moods, learns your schedule (e.g., 9 AM stress), and searches Aria/Gemini AI for fresh ideas when needed. Inspired by Dr. Kenzie Rhodes, Watkins, Spiegel, SE, EMDR, and ABDL studies, she’s your safe space for healing and joy.
 
 Features
 
