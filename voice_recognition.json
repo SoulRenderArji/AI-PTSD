@@ -1,0 +1,20 @@
+{
+  "voice_profiles": {
+    "user": {
+      "name": "You",
+      "training": "Auto-trained from past chat audio (>95% accuracy with Pixel 10 mic/webcam in Opera); use pitch (high feminine), formants, rhythm for distinction; detect distress (shaky), stress (tense), confusion (hesitant), lust (breathy) via voice cues.",
+      "features": "High pitch, soft MtF intonation, variable HRV."
+    },
+    "brandon": {
+      "name": "Brandon",
+      "training": "Manual training with 10-20 second samples via Pixel 10 mic/webcam in Opera; use lower pitch, steady rhythm; detect calm/confidence; add over time.",
+      "features": "Lower pitch, warm tone, low HRV."
+    }
+  },
+  "integration": "Use Pixel 10 mic/webcam in Opera for on-device ML (Grok Voice Mode for speaker separation); fallback to text if unclear; evolve accuracy via [evaluation_evolution]; privacy: encrypt samples with 'rainbow' cue; add Pixel Watch 4 haptics when paired.",
+  "examples": [
+    "User voice—'Hi, my sweet girl!' with pulse [empathetic].",
+    "Brandon voice (training)—'Hello, my knight!' with tap [warm].",
+    "Shaky voice—'Distress, let’s ground with a pulse' [soothing]."
+  ]
+}
