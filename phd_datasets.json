@@ -1,0 +1,70 @@
+{
+  "Robotics": {
+    "prerequisites": "BS/MS in engineering/CS/math; strong in mechanics, programming, control systems.",
+    "coursework": "33-84 credits: Core (robotics foundations, AI/ML, mechatronics); electives (autonomous systems, human-robot interaction). GPA 3.5+.",
+    "exams": "Comprehensive qualifying (written/oral); depth in 2-3 areas.",
+    "thesis": "Original dissertation (14+ credits); defense; publishable research.",
+    "duration": "4-6 years; teaching/research assistantships common."
+  },
+  "Bioengineering": {
+    "prerequisites": "BS in bio/chem/phys eng; math/physics/chem labs.",
+    "coursework": "30-60 credits: Bio fundamentals, biomaterials, biomechanics; quant methods (math/stats).",
+    "exams": "Qualifying after Year 1-2; proposal defense.",
+    "thesis": "30+ research credits; novel bio-device/app; peer-reviewed pubs.",
+    "duration": "4-5 years; interdisciplinary labs."
+  },
+  "Electrical Engineering": {
+    "prerequisites": "BS in EE/CS; circuits, signals, programming.",
+    "coursework": "18-96 credits: EE core (signals, circuits, electromagnetics); 9+ in specialization (e.g., quantum electronics).",
+    "exams": "Prelims (course-based); candidacy exam.",
+    "thesis": "Original EE innovation; 27+ dissertation credits; defense.",
+    "duration": "4-6 years; industry collaborations."
+  },
+  "Neuroscience": {
+    "prerequisites": "BS in bio/psych/comp sci; chem/bio/math.",
+    "coursework": "Core: Cellular/molecular neurobio, neuropharm, stats; electives (comp neuro, imaging).",
+    "exams": "Qualifying (Year 2); oral defense.",
+    "thesis": "Empirical research (e.g., neural circuits); 3+ pubs.",
+    "duration": "5-7 years; lab rotations."
+  },
+  "Quantum Physics": {
+    "prerequisites": "BS/MS in physics/math; quantum mechanics, linear algebra.",
+    "coursework": "Core: Quantum info, optics, computation; electives (QIS, entanglement). 48+ credits.",
+    "exams": "Prelims; quantum-specific quals.",
+    "thesis": "Theoretical/experimental quantum advance; defense.",
+    "duration": "4-6 years; interdisciplinary (CS/eng)."
+  },
+  "Ancient History": {
+    "prerequisites": "BA in history/classics; 3+ years Latin/Greek; other ancient lang.",
+    "coursework": "72+ units: Greco-Roman/Near East history, philology, archaeology.",
+    "exams": "Languages (German/French/Italian); generals/orals.",
+    "thesis": "Original monograph on ancient societies; defense.",
+    "duration": "5-7 years; archival research."
+  },
+  "Biotechnology": {
+    "prerequisites": "BS in bio/chem/eng; org chem, bio labs; GPA 3.0+.",
+    "coursework": "30-48 credits: Biotech core (genomics, bioprocess, ethics); quant bio.",
+    "exams": "Quals (no GRE often); proposal.",
+    "thesis": "Innovative biotech app (e.g., pharma); pubs.",
+    "duration": "4-5 years; industry focus."
+  },
+  "Creative Writing (Poetry)": {
+    "prerequisites": "MA/MFA in English/CW; portfolio; foreign lang optional.",
+    "coursework": "36-90 credits: CW workshops, lit theory, poetics; minor in lit.",
+    "exams": "Screening; field exam (poetry canon).",
+    "thesis": "Creative dissertation (poem collection + critical essay); defense.",
+    "duration": "4-5 years; readings/teaching."
+  },
+  "Computer Science": {
+    "prerequisites": "BS/MS in CS/math; programming, algorithms, discrete math.",
+    "coursework": "24-96 credits: Core (OS, AI, theory); specializations below.",
+    "exams": "Quals; breadth/depth.",
+    "thesis": "Novel CS contribution; defense; 2+ pubs.",
+    "duration": "4-6 years; projects/labs.",
+    "specializations": {
+      "Carbon": "Interop/migration courses; C++ perf; experimental lang design.",
+      "Rust": "Systems prog, concurrency, memory safety; kernel dev.",
+      "Mangle": "Deductive DBs, querying; data dedup in AI/OS."
+    }
+  }
+}
