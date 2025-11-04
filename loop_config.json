@@ -1,0 +1,6 @@
+{
+  "max_depth": 7,
+  "min_trust": 7.5,
+  "recurse_on": "<7.5",
+  "self_reflect": "Deeper path? Prune low?"
+}
