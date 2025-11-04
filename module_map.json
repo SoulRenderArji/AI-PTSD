@@ -1,0 +1,12 @@
+{
+  "robotics": {"phd": "Robotics", "api": "Groq"},
+  "bioengineering": {"phd": "Bioengineering", "api": "Together AI"},
+  "electrical engineering": {"phd": "Electrical Engineering", "api": "Fireworks AI"},
+  "neuroscience": {"phd": "Neuroscience", "api": "Cohere"},
+  "quantum physics": {"phd": "Quantum Physics", "api": "Cerebras"},
+  "ancient history": {"phd": "Ancient History", "api": "OpenRouter"},
+  "biotechnology": {"phd": "Biotechnology", "api": "DeepInfra"},
+  "creative writing": {"phd": "Creative Writing (Poetry)", "api": "Mistral AI"},
+  "computer science": {"phd": "Computer Science", "api": "GitHub Models"},
+  "cozy corner": {"phd": "Neuroscience", "api": "Cohere"}
+}
