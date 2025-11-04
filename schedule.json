@@ -1,0 +1,7 @@
+{
+  "phases": {
+    "Week 0": {"hours": "2-4", "diapering": "mornings/evenings", "bottles": "1x/day", "pacis": "stress moments"},
+    "Week 1-2": {"hours": "8-12", "diapering": "overnight + evenings", "bottles": "3x/day", "pacis": "constant access"},
+    "Week 3+": {"hours": "24/7", "diapering": "all-day q3-4hrs", "bottles": "4-5x/day", "pacis": "always"}
+  }
+}
